@@ -1,0 +1,6 @@
+
+streamlit
+torch
+FlagEmbedding
+qdrant-client
+groq
